@@ -1,7 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 heroku url: https://lclandingpage.herokuapp.com/
-TO run locally:
+
+To run locally:
+
 1)Clone the repo.
 
 git clone https://github.com/murtaza1112/lclandingpage.git
