@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+heroku url: https://lclandingpage.herokuapp.com/
+TO run locally:
+1)Clone the repo.
+git clone https://github.com/murtaza1112/lclandingpage.git
+2)Move into the actual app directory.
+ cd lclandingpage
+3)Install the npm dependencies.
+ npm install 
+4)Run the Website.
+ npm start
+ 5)The site will be active no the url: http://localhost:3000/
+ 
+ 
 ## Available Scripts
 
 In the project directory, you can run:
